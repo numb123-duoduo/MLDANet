@@ -15,7 +15,7 @@ Please cite our paper if you find it is useful for your research.
   pages={1-1},
   doi={10.1109/TGRS.2022.3157721}}
   ```
-# Acknowledge
+# Acknowledgements
 This codebase is heavily borrowed from [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
 
 
