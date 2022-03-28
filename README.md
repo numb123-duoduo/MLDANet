@@ -2,6 +2,8 @@
 
 This is a reporitory for releasing a PyTorch implementation of our work [Multilevel Deformable Attention-Aggregated Networks for Change Detection in Bitemporal Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/9730826).
 
+# Acknowledge
+This codebase is heavily borrowed from [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
 
 Please cite our paper if you find it is useful for your research.
 
